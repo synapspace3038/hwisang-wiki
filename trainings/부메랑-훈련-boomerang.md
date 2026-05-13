@@ -3,6 +3,9 @@
 > 출처: [부메랑 훈련 (boomerang)](https://www.youtube.com/watch?v=2_uoYBrPxhU)
 > 채널: 기록아빠 (퀘이커 앵무새 끼룩이)
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/2_uoYBrPxhU" frameborder="0" allowfullscreen></iframe>
+
+
 ## 요약
 
 손에서 앵무새를 날리면 부메랑처럼 다시 손으로 돌아오는 훈련이다. 한쪽 손에서 반대쪽 손으로 옮겨 타는 것부터 시작해서, 점점 거리를 늘려 선회하며 돌아오게 만든다. 앵무새를 날릴 때 손가락을 살짝 기울여서 도움닫기가 가능하도록 해주는 것이 포인트다.

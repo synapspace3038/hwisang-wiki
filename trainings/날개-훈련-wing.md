@@ -3,6 +3,9 @@
 > 출처: [날개 훈련 (wing)](https://www.youtube.com/watch?v=VLP8Xp8e9U4)
 > 채널: 기록아빠 (퀘이커 앵무새 끼룩이)
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/VLP8Xp8e9U4" frameborder="0" allowfullscreen></iframe>
+
+
 ## 요약
 
 "날개" 하면 앵무새가 날개를 펄럭이는 훈련이다. 손가락 위에 앵무새를 올려놓고 손을 살짝 내리면 균형을 잃지 않으려고 날개를 펄럭이는 본능을 이용한다. 클리커로 정확한 타이밍에 보상을 주면서, 점차 손을 내리지 않아도 "날개"라는 말만으로 날개를 펼 수 있게 만든다.

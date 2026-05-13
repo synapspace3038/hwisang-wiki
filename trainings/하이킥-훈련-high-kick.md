@@ -3,6 +3,9 @@
 > 출처: [하이킥 훈련 (high kick)](https://www.youtube.com/watch?v=aAJZ5OJQYZA)
 > 채널: 기록아빠 (퀘이커 앵무새 끼룩이)
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/aAJZ5OJQYZA" frameborder="0" allowfullscreen></iframe>
+
+
 ## 요약
 
 "하이킥" 하면 앵무새가 발을 높이 올리는 훈련이다. 왼발/오른발 훈련(악수 심화과정)이 선행되어야 하며, 발을 올리는 높이를 점점 올려가는 방식으로 진행한다. 포즈 훈련을 활용해 발을 올린 상태에서 카운트하며 유지하게 할 수도 있다.

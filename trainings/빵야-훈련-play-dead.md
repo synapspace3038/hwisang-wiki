@@ -3,6 +3,9 @@
 > 출처: [빵야 훈련 (play dead)](https://www.youtube.com/watch?v=6sVcUDLNqhY)
 > 채널: 기록아빠 (퀘이커 앵무새 끼룩이)
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/6sVcUDLNqhY" frameborder="0" allowfullscreen></iframe>
+
+
 ## 요약
 
 "빵야" 하면 앵무새가 뒤집어져서 죽은 척하는 훈련이다. 바닥에서 뒤집히는 것에 대한 거부감을 없애는 게 핵심이고, 끼룩이는 약 3개월 정도 걸렸다. 손에서는 잘 누워도 바닥에서는 절대 눕기 싫어해서 천천히 적응시키는 과정이 필요하다.

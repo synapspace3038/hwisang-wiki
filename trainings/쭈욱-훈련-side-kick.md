@@ -3,6 +3,9 @@
 > 출처: [쭈욱 훈련 (side kick)](https://www.youtube.com/watch?v=Lri4pK99OLU)
 > 채널: 기록아빠 (퀘이커 앵무새 끼룩이)
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Lri4pK99OLU" frameborder="0" allowfullscreen></iframe>
+
+
 ## 요약
 
 "쭈욱" 하면 앵무새가 손을 잡고 뒤로 다리를 쭉 빼는 동작을 하는 훈련이다. 손 잡는 것에 거부감이 없어야 하고, 어느 정도 터치 훈련이 되어 있으면 시작할 수 있다. 기록아빠는 이 훈련을 완성하는 데 대략 1주일 정도 걸렸다고 한다.

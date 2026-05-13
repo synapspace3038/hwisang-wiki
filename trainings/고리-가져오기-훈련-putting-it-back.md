@@ -3,6 +3,9 @@
 > 출처: [고리 가져오기 훈련 (putting it back)](https://www.youtube.com/watch?v=D_bX1_TJzA8)
 > 채널: 기록아빠 (퀘이커 앵무새 끼룩이)
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/D_bX1_TJzA8" frameborder="0" allowfullscreen></iframe>
+
+
 ## 요약
 
 앵무새가 고리를 부리로 물어서 집사의 손으로 가져다 주는 훈련이다. 고리걸기 훈련의 선행 단계이며, 훈련 도구에 대한 적응이 먼저 되어 있어야 한다. 고리를 무는 것부터 시작해서, 물고 들어올리고, 손에 떨어뜨리는 과정을 단계적으로 진행한다.

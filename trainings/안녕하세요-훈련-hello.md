@@ -3,6 +3,9 @@
 > 출처: [안녕하세요 훈련 (hello)](https://www.youtube.com/watch?v=kckQ9v0tdOA)
 > 채널: 기록아빠 (퀘이커 앵무새 끼룩이)
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/kckQ9v0tdOA" frameborder="0" allowfullscreen></iframe>
+
+
 ## 요약
 
 "안녕하세요" 하면 앵무새가 고개를 까딱까딱 인사하는 훈련이다. 타겟 훈련이 선행되어야 하며, 손가락이나 깃털로 위아래를 유도해서 고개를 끄덕이게 만든다. 처음에는 제스처를 크게 해주고, 점점 줄여서 말만으로 인사하게 만드는 것이 목표다.

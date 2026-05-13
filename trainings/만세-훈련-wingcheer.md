@@ -3,6 +3,9 @@
 > 출처: [만세 훈련 (wing/cheer)](https://www.youtube.com/watch?v=AHJ12wANoaU)
 > 채널: 기록아빠 (퀘이커 앵무새 끼룩이)
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/AHJ12wANoaU" frameborder="0" allowfullscreen></iframe>
+
+
 ## 요약
 
 "만세" 하면 앵무새가 날개를 뒤로 활짝 펴고 올리는 훈련이다. 날개 훈련의 응용 버전으로, 날개를 계속 훈련하다 보면 앵무새가 날개를 뒤로 쭉 펴면서 다리도 뻗는 동작을 하게 된다. 그 동작이 나올 때 포착해서 "만세"로 명명하고 보상하는 방식이다.

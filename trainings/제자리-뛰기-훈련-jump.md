@@ -3,6 +3,9 @@
 > 출처: [제자리 뛰기 훈련 (jump)](https://www.youtube.com/watch?v=J2aBQ0zjwWY)
 > 채널: 기록아빠 (퀘이커 앵무새 끼룩이)
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/J2aBQ0zjwWY" frameborder="0" allowfullscreen></iframe>
+
+
 ## 요약
 
 앵무새가 바닥에서 제자리 점프를 하는 훈련이다. 날개 훈련이 선행되어야 하며, 날개짓을 하다가 자연스럽게 바닥에서 살짝 뜨는 동작을 강화시켜 점프로 발전시킨다. "제자리 뛰기"라는 새 명령어를 기존 "날개" 명령어에 점진적으로 연결하는 방식이다.

@@ -3,6 +3,9 @@
 > 출처: [끄덕끄덕 훈련 (nodding)](https://www.youtube.com/watch?v=cxcRqGRmnkQ)
 > 채널: 기록아빠 (퀘이커 앵무새 끼룩이)
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/cxcRqGRmnkQ" frameborder="0" allowfullscreen></iframe>
+
+
 ## 요약
 
 "끄덕끄덕" 하면 앵무새가 고개를 위아래로 끄덕이는 훈련이다. 앵무새가 집사의 행동을 따라하려는 경향을 이용하며, 행동 유도 방법이 여러 가지 있다. 처음에는 제스처를 크게 해주고, 점점 줄여서 말만으로 끄덕이게 만드는 것이 목표다.

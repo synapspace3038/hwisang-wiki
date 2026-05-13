@@ -3,6 +3,9 @@
 > 출처: [하~ 훈련 (ha~)](https://www.youtube.com/watch?v=WO8LrkesySs)
 > 채널: 기록아빠 (퀘이커 앵무새 끼룩이)
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/WO8LrkesySs" frameborder="0" allowfullscreen></iframe>
+
+
 ## 요약
 
 "하~" 하면 앵무새가 입을 크게 벌리는 훈련이다. 앵무새가 하품할 때의 자연스러운 동작을 포착해서 명령어와 연결시키는 방식이다. 밥 먹고 나서 배가 부르거나, 잠이 올 때 하품하는 타이밍을 노려야 한다. 클리커를 사용하면 정확한 타이밍에 보상할 수 있어 더 효과적이다.

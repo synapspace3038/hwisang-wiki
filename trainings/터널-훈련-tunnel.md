@@ -3,6 +3,9 @@
 > 출처: [터널 훈련 (tunnel)](https://www.youtube.com/watch?v=VL5i8d4kL-Y)
 > 채널: 기록아빠 (퀘이커 앵무새 끼룩이)
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/VL5i8d4kL-Y" frameborder="0" allowfullscreen></iframe>
+
+
 ## 요약
 
 손으로 터널 모양을 만들면 앵무새가 그 사이를 통과하는 훈련이다. 타겟 훈련(손가락 터치)을 이용해서 터널 안을 걸어 나오게 유도한다. 처음에는 손 사이를 넓게 띄워서 공간을 만들어주고, 점점 타이트하게 좁혀간다.

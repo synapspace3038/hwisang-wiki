@@ -3,6 +3,9 @@
 > 출처: [배변 훈련 (potty)](https://www.youtube.com/watch?v=yUZDXGQty78)
 > 채널: 기록아빠 (퀘이커 앵무새 끼룩이)
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/yUZDXGQty78" frameborder="0" allowfullscreen></iframe>
+
+
 ## 요약
 
 앵무새가 지정된 장소에서 배변하도록 가르치는 훈련이다. 완벽하게 변을 가리는 것은 아니지만, 교육을 통해 어느 정도 가리게 하는 것이 가능하다. 앵무새가 배변하는 타이밍을 관찰해서 그 순간을 포착하고 보상하는 방식이며, 지정된 장소에서 변을 보게 하는 것이 핵심이다.

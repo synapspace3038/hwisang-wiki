@@ -3,6 +3,9 @@
 > 출처: [악수 심화과정 2 (handshake advanced 2)](https://www.youtube.com/watch?v=ekOQOYRVTtw)
 > 채널: 기록아빠 (퀘이커 앵무새 끼룩이)
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ekOQOYRVTtw" frameborder="0" allowfullscreen></iframe>
+
+
 ## 요약
 
 악수 심화과정 1에서 배운 왼발/오른발 훈련의 명령어를 더 세련되게 다듬는 과정이다. 기존에는 손을 내밀어야 발을 들었는데, 말만으로 발을 들게 만드는 것이 목표다. 손 제스처를 점점 줄여가면서, "오른발" 또는 "왼발"이라는 말만으로 해당 발을 드는 훈련이다.

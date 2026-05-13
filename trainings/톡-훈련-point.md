@@ -3,6 +3,9 @@
 > 출처: [톡 훈련 (point)](https://www.youtube.com/watch?v=2Ji0ICSjtj0)
 > 채널: 기록아빠 (퀘이커 앵무새 끼룩이)
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/2Ji0ICSjtj0" frameborder="0" allowfullscreen></iframe>
+
+
 ## 요약
 
 "톡" 하면 앵무새가 지정한 물건을 부리로 톡 치는 훈련이다. 타겟 훈련을 기초로 하며, 다양한 물건으로 바꿔가면서 훈련해야 특정 물건이 아닌 "톡 친 물건"에 반응하게 된다. 나중에 차임벨 누르기 등으로 응용할 수 있는 활용도 높은 훈련이다.

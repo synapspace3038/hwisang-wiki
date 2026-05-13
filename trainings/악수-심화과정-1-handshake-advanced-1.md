@@ -3,6 +3,9 @@
 > 출처: [악수 심화과정 1 (handshake advanced 1)](https://www.youtube.com/watch?v=Ilf3iwqWxfM)
 > 채널: 기록아빠 (퀘이커 앵무새 끼룩이)
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Ilf3iwqWxfM" frameborder="0" allowfullscreen></iframe>
+
+
 ## 요약
 
 기본 악수 훈련에서 한 단계 더 나아가, 왼발과 오른발을 구분해서 드는 훈련이다. 계단 타기 동작을 이용해 양쪽 발을 번갈아 만지면서, 각 발에 "왼발", "오른발" 명령어를 연결시킨다. 와이프의 요청으로 시작했으며, 하루 이틀이면 어느 정도 구분이 가능해진다.

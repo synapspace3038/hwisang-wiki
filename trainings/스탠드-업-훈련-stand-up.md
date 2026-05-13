@@ -3,6 +3,9 @@
 > 출처: [스탠드 업 훈련 (stand up)](https://www.youtube.com/watch?v=pqRuo5Il2KY)
 > 채널: 기록아빠 (퀘이커 앵무새 끼룩이)
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/pqRuo5Il2KY" frameborder="0" allowfullscreen></iframe>
+
+
 ## 요약
 
 "스탠드 업" 하면 앵무새가 몸을 쭉 펴고 서는 훈련이다. 앵무새가 집사의 행동을 따라하려는 경향을 이용해서, 집사가 직접 몸을 쭉 세우는 동작을 보여주고 따라하게 만든다. 클리커 훈련이 잘 되어 있으면 가장 쉽게 앵무새에게 개인기를 가르칠 수 있는 방법이다.

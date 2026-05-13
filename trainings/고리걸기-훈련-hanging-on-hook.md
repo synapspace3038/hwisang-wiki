@@ -3,6 +3,9 @@
 > 출처: [고리걸기 훈련 (hanging on hook)](https://www.youtube.com/watch?v=1k2YWGLJw_Q)
 > 채널: 기록아빠 (퀘이커 앵무새 끼룩이)
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/1k2YWGLJw_Q" frameborder="0" allowfullscreen></iframe>
+
+
 ## 요약
 
 앵무새가 고리를 물어서 걸대에 걸어주는 훈련이다. "고리 가져오기" 훈련이 선행되어야 하며, 가져오기 훈련에서 손 대신 걸대에 떨어뜨리게 만들면 자연스럽게 고리걸기가 된다. 고리 가져오기가 되어 있다면 5분도 안 걸려서 완성할 수 있을 정도로 쉽다.

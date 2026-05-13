@@ -3,6 +3,9 @@
 > 출처: [왔다갔다 훈련 (back and forth)](https://www.youtube.com/watch?v=3Nka1_Ee7dI)
 > 채널: 기록아빠 (퀘이커 앵무새 끼룩이)
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/3Nka1_Ee7dI" frameborder="0" allowfullscreen></iframe>
+
+
 ## 요약
 
 손가락으로 횃대를 톡톡 치면, 앵무새가 그 횃대로 이동하는 훈련이다. 여러 횃대를 놓아두고 손가락으로 포인트를 찍으면 찍은 대로 옮겨가는 방식이다. 해바라기씨를 이용해 유도하면서 시작하고, 점차 횃대 개수를 늘려간다.

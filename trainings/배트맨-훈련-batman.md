@@ -3,6 +3,9 @@
 > 출처: [배트맨 훈련 (batman)](https://www.youtube.com/watch?v=n9d9TJ18I3g)
 > 채널: 기록아빠 (퀘이커 앵무새 끼룩이)
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/n9d9TJ18I3g" frameborder="0" allowfullscreen></iframe>
+
+
 ## 요약
 
 "배트맨" 하면 앵무새가 손가락(또는 횃대)에 매달려서 한 바퀴 도는 훈련이다. 인터넷에서는 "빙글빙글", "뱅글뱅글" 등 다양한 이름으로 불린다. 뒤집기 훈련이 선행되어야 하며, 손을 주먹처럼 꺾어서 앵무새가 잡을 수 있는 면적을 넓혀주는 것이 포인트다.

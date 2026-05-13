@@ -2,6 +2,8 @@
 
 > 퀘이커 앵무새 '끼룩이' 훈련 영상 24편의 자막을 기반으로 구축한 지식 베이스
 > 원본: [앵무새 훈련 배워봅시다](https://www.youtube.com/playlist?list=PLonHcWaZVC7TM3BVDPrOr6pSPfXP0zori)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PLonHcWaZVC7TM3BVDPrOr6pSPfXP0zori" frameborder="0" allowfullscreen></iframe>
+
 
 ## 카테고리
 

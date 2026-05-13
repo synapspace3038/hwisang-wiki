@@ -3,6 +3,9 @@
 > 출처: [갸우뚱 훈련 (question)](https://www.youtube.com/watch?v=krUYSP3AjTo)
 > 채널: 기록아빠 (퀘이커 앵무새 끼룩이)
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/krUYSP3AjTo" frameborder="0" allowfullscreen></iframe>
+
+
 ## 요약
 
 "갸우뚱" 하면 앵무새가 고개를 옆으로 갸우뚱 기울이는 훈련이다. 앵무새가 주인을 따라하려는 경향을 이용하거나, 궁금한 것을 관찰할 때 고개를 45도 돌리는 본능을 포착해서 보상하는 방식이다. 원리는 간단하지만, 실제로는 집중도 높은 반복 훈련이 필요해서 의외로 어려울 수 있다.

@@ -3,6 +3,9 @@
 > 출처: [똑똑똑 훈련 (knock knock)](https://www.youtube.com/watch?v=T3NzxCGXLwo)
 > 채널: 기록아빠 (퀘이커 앵무새 끼룩이)
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/T3NzxCGXLwo" frameborder="0" allowfullscreen></iframe>
+
+
 ## 요약
 
 앵무새가 나무 막대나 바닥을 부리로 "똑똑똑" 두드리는 훈련이다. 크게 두 가지 방법이 있는데, 하나는 집사의 행동을 따라하게 하는 방법이고, 다른 하나는 안녕하세요 훈련(고개 끄덕이기)을 응용해서 바닥을 쪼게 만드는 방법이다. 집사와의 교감이 좋으면 따라하기 방식이 더 깔끔하다.

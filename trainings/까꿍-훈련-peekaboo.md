@@ -3,6 +3,9 @@
 > 출처: [까꿍 훈련 (peekaboo)](https://www.youtube.com/watch?v=vYRxzKx2mu8)
 > 채널: 기록아빠 (퀘이커 앵무새 끼룩이)
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/vYRxzKx2mu8" frameborder="0" allowfullscreen></iframe>
+
+
 ## 요약
 
 앵무새가 "까꿍"이라고 말하게 만드는 언어 훈련이다. 퀘이커 앵무새는 언어 능력이 약한 편이지만, 단순 반복보다 놀이처럼 제스처를 섞어서 가르치면 따라하기 시작한다. 문을 열고 닫으면서 "까꿍"을 반복하는 놀이 방식이 효과적이다.

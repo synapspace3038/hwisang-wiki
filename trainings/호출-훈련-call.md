@@ -3,6 +3,9 @@
 > 출처: [호출 훈련 (call)](https://www.youtube.com/watch?v=7z5k2DCpfAc)
 > 채널: 기록아빠 (퀘이커 앵무새 끼룩이)
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/7z5k2DCpfAc" frameborder="0" allowfullscreen></iframe>
+
+
 ## 요약
 
 집사가 이름을 부르면 앵무새가 날아서 손 위로 오는 훈련이다. 앵무새를 처음 데려온 순간부터 시작하는 것을 추천하며, 날개가 자라면 자기 성격이 강해져서 호출이 어려워질 수 있다. 가까운 거리부터 시작해서 점점 거리를 늘려가는 방식이다.
