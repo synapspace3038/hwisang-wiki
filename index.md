@@ -5,6 +5,9 @@
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PLonHcWaZVC7TM3BVDPrOr6pSPfXP0zori" frameborder="0" allowfullscreen></iframe>
 
 
+## 📋 [훈련 로드맵 (난이도별 순서)](roadmap.md)
+> 쉬운 것부터 어려운 것까지, 따라하기 좋은 순서로 정리!
+
 ## 카테고리
 
 ### [기본기 & 사회화](categories/기본기-and-사회화.md)
