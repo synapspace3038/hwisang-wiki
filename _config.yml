@@ -1,7 +1,7 @@
-title: "끼룩이 앵무새 훈련 위키"
-description: "퀘이커 앵무새 '끼룩이' 훈련 영상 24편 기반 지식 베이스"
+title: "휘상 위키"
+description: "휘상이의 취미 생활 위키 — 앵무새, 낚시 등"
 theme: jekyll-theme-cayman
-baseurl: "/parrot-wiki"
+baseurl: "/hwisang-wiki"
 url: "https://synapspace3038.github.io"
 markdown: kramdown
 encoding: utf-8
